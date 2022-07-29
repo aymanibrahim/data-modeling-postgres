@@ -179,3 +179,7 @@ log_data/2018/11/2018-11-13-events.json
 >    ``
     python etl.py
     ``
+# Data Engineering projects
+
+- ## [Data Modeling with Postgres](https://github.com/aymanibrahim/data-modeling-postgres)
+- ## [Data Modeling with Cassandra](https://github.com/aymanibrahim/data-modeling-cassandra)    
